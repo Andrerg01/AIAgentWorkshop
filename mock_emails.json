@@ -1,0 +1,14 @@
+[
+    {"sender": "bob@example.com", "subject": "Meeting Notes", "body": "Project X sync summary."},
+    {"sender": "alice@example.com", "subject": "Budget", "body": "Q3 budget is approved."},
+    {"sender": "grandma@snailmail.net", "subject": "🍪 Fresh Cookies!", "body": "Just baked your favorite. Come by this weekend or I'll mail them in bubble wrap again."},
+    {"sender": "noreply@catfactsdaily.com", "subject": "Your Daily Cat Fact 🐱", "body": "A group of cats is called a clowder."},
+    {"sender": "kevin@adventurebros.org", "subject": "Camping Trip Checklist", "body": "Do NOT forget the marshmallows this time."},
+    {"sender": "calendar-bot@work.io", "subject": "Meeting Overload Alert", "body": "You have 5 overlapping meetings tomorrow. Good luck."},
+    {"sender": "tina@craftcorner.com", "subject": "Glue Gun Emergency", "body": "Do you still have that industrial glue? Mine exploded mid-project."},
+    {"sender": "petpics@pawstagram.com", "subject": "Scout’s Weekly Report 🐶", "body": "Scout chased 3 squirrels, destroyed one pillow, and learned to high-five. See attached photos."},
+    {"sender": "mysterygamer123@unknown.com", "subject": "🎮 You’ve Been Challenged!", "body": "Beat my high score if you dare. Loser buys pizza."},
+    {"sender": "mom@family.net", "subject": "Call me!", "body": "I saw a TikTok about something called 'digital burnout.' Are you ok? Drink water."},
+    {"sender": "team-snackchat@office.com", "subject": "Emergency Snack Run 🍫", "body": "We’re out of chocolate. Crisis level: Orange. Send help or snacks."},
+    {"sender": "robot@remind.me", "subject": "Don’t Forget Your Umbrella ☔", "body": "Forecast says rain at 3:47 PM. You’re welcome."}
+]
